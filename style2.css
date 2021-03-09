@@ -1,0 +1,9 @@
+.circle {
+    border-left:  solid #fff2cc;
+    border-bottom:  solid #fff2cc;
+    border-radius: 250%;
+    width: 150px;
+    height: 200px;
+    border-width: 5px;
+}
+
